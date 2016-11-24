@@ -1,0 +1,27 @@
+{
+  "name": "walla",
+  "version": "1.0.0",
+  "description": "playing with pouchdb and electron",
+  "main": "main.js",
+  "dependencies": {
+    "pouchdb-browser": "^6.0.7"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^1.4.9"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcoquet/walla.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcoquet/walla/issues"
+  },
+  "homepage": "https://github.com/mcoquet/walla#readme"
+}
